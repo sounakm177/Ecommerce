@@ -1,0 +1,30 @@
+.cart_qty input{
+	width:50px;
+	height:30px;
+}
+.login {
+    color: #fbf6f4;
+    background: #fe980f;
+	border-radius:0;
+	margin-top:20px;
+}
+.login:hover{
+	background: #ebebeb;
+}
+.heading1{
+	background:#53d633;
+    color: #363432;
+    font-size: 20px;
+    margin-bottom: 35px;
+    padding: 10px 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.register-req, .step-one .head {
+    background: none repeat scroll 0 0 #F0F0E9;
+    color: #363432;
+    font-size: 20px;
+    margin-bottom: 35px;
+    padding: 10px 25px;
+    font-family: 'Roboto', sans-serif;
+}
